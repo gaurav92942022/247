@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "grizzlybear.aternos.me",
+    "ip": "grizzlybear.aternos.host",
     "port": 47038,
     "version": "",
     "try-creative": false
