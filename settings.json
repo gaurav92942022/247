@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "gaurav294",
+    "username": "9294",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "itzmegoku001.aternos.me",
-    "port": 47308,
+    "port": ,
     "version": "",
     "try-creative": false
   },
